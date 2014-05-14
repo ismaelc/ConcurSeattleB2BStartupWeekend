@@ -39,7 +39,7 @@
         </div>
 
         <h1>
-<a name="concur-seattle-b2b-startup-weekend" class="anchor" href="#concur-seattle-b2b-startup-weekend"><span class="octicon octicon-link"></span></a><a name="top">Concur Seattle B2B Startup Weekend</a>
+<a name="concur-seattle-b2b-startup-weekend-swseab2b" class="anchor" href="#concur-seattle-b2b-startup-weekend-swseab2b"><span class="octicon octicon-link"></span></a><a name="top">Concur Seattle B2B Startup Weekend #swseab2b</a>
 </h1>
 
 <p><img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px">   <img src="https://gdvdwg.bn1303.livefilestore.com/y2ptf0xfK2GMYPTVUMICT4C0LDH4YWY-gS2h5GKPMzxg4MdnNa8yRd9dRO8aN0fCcOs0VJIEeiPlnRJmE4oZqURP6vWJWYk02VbiBrmIUVgC0Q/Screen%20Shot%202014-05-14%20at%2012.06.23%20PM.png?psid=1" width="150px"><br><br>
@@ -144,7 +144,7 @@ This page contains information and links to all the resources you need to get st
 <pre><code>    -H "Content-Type:application/json"
 </code></pre>
 
-<p>To get an access token, send an email to <a href="mailto:chris.ismael@concur.com">chris.ismael@concur.com</a> (our Developer Evangelist)</p>
+<p>To get an access token, send an email to <a href="mailto:mithun.dhar@concur.com">mithun.dhar@concur.com</a> (our Director of  Evangelism)</p>
 
 <p>You can also give our <a href="https://www.concursolutions.com/api/docs/index.html">Swagger API documentation</a> a spin.  We'll cover Swagger in a bit more detail below.</p>
 
@@ -156,9 +156,9 @@ This page contains information and links to all the resources you need to get st
 
 <p><strong>Get a Developer sandbox account</strong></p>
 
-<p>A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up 50 developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email <a href="mailto:chris.ismael@concur.com">chris.ismael@concur.com</a> with the Subject: Disrupt Sandbox.  </p>
+<p>A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up 50 developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email <a href="mailto:chris.ismael@concur.com">chris.ismael@concur.com</a> with the Subject: Concur Sandbox Request for Startup Weekend.  </p>
 
-<p>If you prefer to set up your own free sandbox, you can do so by registering <a href="https://developer.concur.com/register">here</a>.  Note that the setup steps right after you login requires you to keep clicking 'Next' (for the most part) until you get to the end.  If you get stuck, reach out to <a href="mailto:chris.ismael@concur.com">chris.ismael@concur.com</a> or send him a tweet @chrispogeek</p>
+<p>If you prefer to set up your own free sandbox, you can do so by registering <a href="https://developer.concur.com/register">here</a>.  Note that the setup steps right after you login requires you to keep clicking 'Next' (for the most part) until you get to the end.  If you get stuck, reach out to <a href="mailto:mithun.dhar@concur.com">mithun.dhar@concur.com</a> or send him us tweet at @ConcurAPI</p>
 
 <p><strong>Install the app</strong></p>
 
@@ -250,7 +250,7 @@ This page contains information and links to all the resources you need to get st
  Body = 
   &lt;?xml version="1.0"?&gt;
   &lt;Itinerary xmlns="http://www.concursolutions.com/api/travel/trip/2010/06"&gt;
-  &lt;TripName&gt;TechCrunch Disrupt Concur&lt;/TripName&gt;
+  &lt;TripName&gt;swseab2b Concur&lt;/TripName&gt;
   &lt;StartDateLocal&gt;2014-05-30T03:47:14&lt;/StartDateLocal&gt;
   &lt;EndDateLocal&gt;2014-06-06T03:47:14&lt;/EndDateLocal&gt;
   &lt;Bookings&gt;
@@ -283,8 +283,8 @@ This page contains information and links to all the resources you need to get st
             &lt;/Charges&gt;
         &lt;/Hotel&gt;
     &lt;/Segments&gt;
-    &lt;RecordLocator&gt;Disrupt123&lt;/RecordLocator&gt;
-    &lt;BookingSource&gt;Sample Itin for Disrupt&lt;/BookingSource&gt;
+    &lt;RecordLocator&gt;swseab2b123&lt;/RecordLocator&gt;
+    &lt;BookingSource&gt;Sample Itin for swseab2b&lt;/BookingSource&gt;
     &lt;DateBookedLocal&gt;2014-04-30T03:47:14&lt;/DateBookedLocal&gt;
   &lt;/Booking&gt;
   &lt;Booking&gt;
@@ -301,7 +301,7 @@ This page contains information and links to all the resources you need to get st
         &lt;/Air&gt;
     &lt;/Segments&gt;
     &lt;RecordLocator&gt;Air Locator&lt;/RecordLocator&gt;
-    &lt;BookingSource&gt;Sample Itin for Disrupt&lt;/BookingSource&gt;
+    &lt;BookingSource&gt;Sample Itin for swseab2b&lt;/BookingSource&gt;
     &lt;DateBookedLocal&gt;2014-04-30T03:47:14&lt;/DateBookedLocal&gt;
   &lt;/Booking&gt;
 &lt;/Bookings&gt;
@@ -348,7 +348,7 @@ URI = https://www.concursolutions.com/api/expense/expensereport/v1.1/report
 ContentType = Application/XML
 Body = 
 &lt;Report xmlns="http://www.concursolutions.com/api/expense/expensereport/2011/03"&gt;
-    &lt;Name&gt;Disrupt Hackathon NYC Trip&lt;/Name&gt;
+    &lt;Name&gt;swseab2b Trip&lt;/Name&gt;
     &lt;Purpose&gt;All Hackathon Expenses&lt;/Purpose&gt;
     &lt;Comment&gt;Includes hotel and meals.&lt;/Comment&gt;
     &lt;OrgUnit1&gt;US&lt;/OrgUnit1&gt;
