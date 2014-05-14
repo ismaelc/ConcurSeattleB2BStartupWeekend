@@ -1,27 +1,30 @@
-<img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration:none; color:black" name="top" >Concur Disrupt</a> &nbsp;&nbsp;&nbsp;<img src="https://jfqcza.bn1304.livefilestore.com/y2pGKvnveN12SnmoryMSg647qwDe4JMLBQ6nVqhBnsOUXY7O3i-jhRIHQXY2dVO1sU2hECixL7OwrE78ntEx7msUA_YLr15z3TuD7MUTk459f4/Screen%20Shot%202014-04-23%20at%203.23.18%20PM.png?psid=1" width="150px" />
+<a style="text-decoration:none; color:black" name="top" >Concur Seattle B2B Startup Weekend</a><img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;<img src="https://gdvdwg.bn1303.livefilestore.com/y2ptf0xfK2GMYPTVUMICT4C0LDH4YWY-gS2h5GKPMzxg4MdnNa8yRd9dRO8aN0fCcOs0VJIEeiPlnRJmE4oZqURP6vWJWYk02VbiBrmIUVgC0Q/Screen%20Shot%202014-05-14%20at%2012.06.23%20PM.png?psid=1" width="150px" />
 =========
 <br/>
-This page contains information and links to all the resources you need for the **Concur Contest** in TechCrunch Disrupt 2014 New York:
+This page contains information and links to all the resources you need to get started with the **Concur APIs** in the Seattle B2B Startup Weekend:
 
-  - [Prizes to win](#prizes)
+  - [Why  build Business Travel apps?](#why)
   - [What is Concur?](#concur)
   - [What information can I get from the Concur APIs?](#apis)
   - [I'm sold.. How do I get started?](#getstarted)
   - [Other API calls/samples to check out](#other)
   - [Sample code](#samplecode)
   - [Help! I'm stuck!](#help)
-  - [TC Disrupt Hackathon Sponsor API Links and Prizes #hackdisrupt](#sponsors)
-  - [Mashup with our fellow sponsors' APIs](#mashup)
-  - [Contest Terms and Conditions](#terms)
+  - [Examples of mashup with other APIs](#mashup)
 
-<a name="prizes">Prizes to win:</a>
+<a name="why">Why build Business Travel Apps?</a>
 ----
 
-Who starts their contest page with prizes? We do!  Here's what you can win:
-    
-  - **Maximum $2,500 worth of Amazon gift cards**: *Best Use of Concur API* - App that demonstrates the best use of Concur APIs.  Prize distribution is $500 to each winning team member.
-    
-  - **$100 Amazon gift card**: *Use of Concur APIs* - first 10 teams that registers/uses/demos the use of Concur APIs, outside of the above category, gets a $100 Amazon gift card (per team).
+Numbers don't lie - the Business Travel industry is an "un-apped" market opportunity:
+
+  - **$1.12T** market in 2013
+  - **2/3 Business Travel** / 1/3 Leisure Travel
+  - **460M business trips** in 1 year in U.S.
+  - **10:1 **return on investment for companies whose employees travel
+  
+  Click on the image below to find out more:
+
+  <img href='http://www.slideshare.net/Concur/tapinto-businesstravelapps' src='https://gdvdwg.bn1.livefilestore.com/y2pH9kYl-wPtd5XJ_zL-_WOWST0eymwhM-r2rYdpwb-irWrTcICLXNRML6_5AK5VbLnDLsfeBfzpvHuIuKTzmqiBtf1NI7O-nL0ZxWowMU53Ks/Screen%20Shot%202014-05-14%20at%2012.16.01%20PM.png?psid=1' />
     
 
 <a name="concur">What is Concur?</a>
@@ -337,23 +340,6 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 
 [Back to Top](#top)
 
-<a name="sponsors">TC Disrupt Hackathon Sponsor API Links and Prizes</a>
---
-
-Sponsor  | Prizes
-------------- | -------------
-[Concur Technologies](http://bit.ly/ConcurDisrupt)   | $2500 worth of Amazon gift cards ($500 each team member) for best use of Concur APIs + $100 per team (10) that use Concur APIs (excluding $500 gift card winners)
-[Yodlee Interactive](http://developer.yodlee.com/Hackathons/NY_Disrupt_2014)  | $2500 in value of VISA gift cards as well as Dr Dre Beats Pill speakers (1 speaker for each member of the winning team up to 4).
-[Mailjet](http://blog.mailjet.com/post/83100778827/mailjets-gearing-up-for-techcrunch-disrupt) | 1st place: 1 year silver membership, $1500, $350 Fancy gift card, 20 GB karma hotspot; 2nd place: 6 months silver membership, $1000, $150 Fancy gift card, 5 GB Karma hotspot; 3rd place: 6 months bronze membership, $250, 2 GB Karma hotspot
-[Yammer](https://developer.yammer.com/restapi/) | Xbox One, Nokia Lumia Icon
-[Microsoft](http://azure.microsoft.com/en-us/documentation/) | Best in Azure Award: This Award is for the best use of Cloud Services with Microsoft Windows Azure. Points will be awarded based on overall User Experience, and usage of Azure Web Sites (1 point), Virtual Machines (2 points), Azure Storage (Blobs, Tables, Queues) (3 points), Azure Mobile Services (4 points) and/or Additional Azure usage (ie, SQL Databases, Service Bus, Active Directory, etc) (5 points). Whether you are creating an iOS, Android or Windows app, the more Azure you use, the more points you earn. The Winning team will be awarded a $400 Gift Card for each team member, up to 5 team members total. (total prize value $2,000)
-[Weather Underground](http://www.wunderground.com/weather/api/) | We’re giving away a $1,000 gift card to the best use of the Weather Underground weather API
-[Pearson](https://developer.pearson.com/apis/) | Amazon Gift Cards 
-[Esri](https://developers.arcgis.com) | 
-[Evernote](http://dev.evernote.com/) | Grand Evernote Prize Awarded to the best overall app that connects with the Evernote API. All members (4 max) win: Apple iPad Minis and 1 year of Evernote Premium (each)
-[Crunchbase](http://developer.crunchbase.com/) | Best Use of CrunchBase API – $500
-
-[Back to Top](#top)
 
 <a name="mashup">Mash-up with our fellow sponsors' APIs</a>
 --
@@ -372,7 +358,3 @@ Concur + Evernote | Auto-upload receipt images dropped in an [Evernote](http://d
 Concur + Crunchbase | Check [startups](http://developer.crunchbase.com/) to visit in area of a Concur user's travel destination
 
 [Back to Top](#top)
-
-<a name="terms" href="http://1drv.ms/1moVAR8">Contest Terms and Conditions</a>
-
-**You're set.  Go win this!**
