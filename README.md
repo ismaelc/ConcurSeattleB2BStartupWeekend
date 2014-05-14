@@ -12,6 +12,7 @@ This page contains information and links to all the resources you need to get st
   - [Sample code](#samplecode)
   - [Help! I'm stuck!](#help)
   - [Examples of mashup with other APIs](#mashup)
+  - [Contact Us](#contact)
 
 <a name="why">Why build Business Travel Apps?</a>
 ----
@@ -178,6 +179,8 @@ The steps below show how we can generate an access token for the API call, use t
 **How to make a POST call to create an itinerary:**
 
 Here are details of an HTTP POST call push itinerary to a Concur user's trip list:
+
+*NOTE: You can't book trips using the API - you can only push itinerary information, as in below*
 
      Request Type = POST
      Authorization = <your access token>
@@ -360,3 +363,11 @@ Concur + Evernote | Auto-upload receipt images dropped in an [Evernote](http://d
 Concur + Crunchbase | Check [startups](http://developer.crunchbase.com/) to visit in area of a Concur user's travel destination
 
 [Back to Top](#top)
+
+<a name="contact">Contact Us</a>
+--
+
+Here are links/channels to contact/learn more about the Concur Platform team:
+ - Twitter: [@ConcurAPI](http://twitter.com/concurapi)
+ - Blog: [https://www.concur.com/blog/tag/developer](https://www.concur.com/blog/tag/developer)
+ - Sign up for the newsletter: [https://developer.concur.com/devcon](https://developer.concur.com/devcon)
