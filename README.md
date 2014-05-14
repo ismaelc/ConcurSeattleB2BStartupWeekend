@@ -1,4 +1,4 @@
-<a style="text-decoration:none; color:black" name="top" >Concur Seattle B2B Startup Weekend</a>
+<a style="text-decoration:none; color:black" name="top" >Concur Seattle B2B Startup Weekend #swseab2b</a>
 =========
 <img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;<img src="https://gdvdwg.bn1303.livefilestore.com/y2ptf0xfK2GMYPTVUMICT4C0LDH4YWY-gS2h5GKPMzxg4MdnNa8yRd9dRO8aN0fCcOs0VJIEeiPlnRJmE4oZqURP6vWJWYk02VbiBrmIUVgC0Q/Screen%20Shot%202014-05-14%20at%2012.06.23%20PM.png?psid=1" width="150px" />
 <br/><br/>
@@ -90,7 +90,7 @@ A similar call to get an Itinerary List of a Concur user would be:
 
         -H "Content-Type:application/json"
 
-To get an access token, send an email to chris.ismael@concur.com (our Developer Evangelist)
+To get an access token, send an email to mithun.dhar@concur.com (our Director of  Evangelism)
 
 You can also give our [Swagger API documentation](https://www.concursolutions.com/api/docs/index.html) a spin.  We'll cover Swagger in a bit more detail below.
 
@@ -101,9 +101,9 @@ The section explains how to properly authenticate against the Concur APIs by gen
 
 **Get a Developer sandbox account**
 
-A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up 50 developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email chris.ismael@concur.com with the Subject: Disrupt Sandbox.  
+A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up 50 developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email chris.ismael@concur.com with the Subject: Concur Sandbox Request for Startup Weekend.  
 
-If you prefer to set up your own free sandbox, you can do so by registering [here](https://developer.concur.com/register).  Note that the setup steps right after you login requires you to keep clicking 'Next' (for the most part) until you get to the end.  If you get stuck, reach out to chris.ismael@concur.com or send him a tweet @chrispogeek
+If you prefer to set up your own free sandbox, you can do so by registering [here](https://developer.concur.com/register).  Note that the setup steps right after you login requires you to keep clicking 'Next' (for the most part) until you get to the end.  If you get stuck, reach out to mithun.dhar@concur.com or send him us tweet at @ConcurAPI
 
 **Install the app**
 
@@ -186,7 +186,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
      Body = 
       <?xml version="1.0"?>
       <Itinerary xmlns="http://www.concursolutions.com/api/travel/trip/2010/06">
-      <TripName>TechCrunch Disrupt Concur</TripName>
+      <TripName>swseab2b Concur</TripName>
       <StartDateLocal>2014-05-30T03:47:14</StartDateLocal>
       <EndDateLocal>2014-06-06T03:47:14</EndDateLocal>
       <Bookings>
@@ -219,8 +219,8 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
                 </Charges>
             </Hotel>
         </Segments>
-        <RecordLocator>Disrupt123</RecordLocator>
-        <BookingSource>Sample Itin for Disrupt</BookingSource>
+        <RecordLocator>swseab2b123</RecordLocator>
+        <BookingSource>Sample Itin for swseab2b</BookingSource>
         <DateBookedLocal>2014-04-30T03:47:14</DateBookedLocal>
       </Booking>
       <Booking>
@@ -237,7 +237,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
             </Air>
         </Segments>
         <RecordLocator>Air Locator</RecordLocator>
-        <BookingSource>Sample Itin for Disrupt</BookingSource>
+        <BookingSource>Sample Itin for swseab2b</BookingSource>
         <DateBookedLocal>2014-04-30T03:47:14</DateBookedLocal>
       </Booking>
     </Bookings>
@@ -282,7 +282,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
     ContentType = Application/XML
     Body = 
     <Report xmlns="http://www.concursolutions.com/api/expense/expensereport/2011/03">
-        <Name>Disrupt Hackathon NYC Trip</Name>
+        <Name>swseab2b Trip</Name>
         <Purpose>All Hackathon Expenses</Purpose>
         <Comment>Includes hotel and meals.</Comment>
         <OrgUnit1>US</OrgUnit1>
