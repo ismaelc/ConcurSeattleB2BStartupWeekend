@@ -22,7 +22,7 @@ Numbers don't lie - the Business Travel industry is an "un-apped" market opportu
   - **$1.12T** market in 2013
   - **2/3 Business Travel** / 1/3 Leisure Travel
   - **460M business trips** in 1 year in U.S.
-  - **10:1 **return on investment for companies whose employees travel
+  - **10:1** return on investment for companies whose employees travel
   
   Click [here](http://www.slideshare.net/Concur/tapinto-businesstravelapps) to check out the Business Travel infographic as previewed below:
 
@@ -102,7 +102,7 @@ The section explains how to properly authenticate against the Concur APIs by gen
 
 **Get a Developer sandbox account**
 
-A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this hackathon, we have set up 50 developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email chris.ismael@concur.com with the Subject: Concur Sandbox Request for Startup Weekend.  
+A developer sandbox account allows you to test both the app and APIs, free of charge.  For the purposes of this event, we have set up developer accounts (using non-existent email addresses and pre-populated with Expense and Itinerary information) so that you can start using them right away.  To get one of these accounts, please email mithun.dhar@concur.com with the Subject: Concur Sandbox Request for Startup Weekend.  
 
 If you prefer to set up your own free sandbox, you can do so by registering [here](https://developer.concur.com/register).  Note that the setup steps right after you login requires you to keep clicking 'Next' (for the most part) until you get to the end.  If you get stuck, reach out to mithun.dhar@concur.com or send him us tweet at @ConcurAPI
 
