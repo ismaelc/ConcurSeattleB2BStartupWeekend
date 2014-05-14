@@ -1,7 +1,7 @@
 <a style="text-decoration:none; color:black" name="top" >Concur Seattle B2B Startup Weekend</a>
 =========
 <img src="https://jfqcza.bn1.livefilestore.com/y2paqP_3uagi8J3WlP4-pNt4kJoOzRKmuohSQUsrjaegIaoNbNZJ7EXLEflIO6XYAOKM6scpKxbtXPg10RL5OO3A9bc6m-zERVRHUYB1OEGq8s/Concur_Logo_VT_Color_500px.png?psid=1" width="90px" />&nbsp;&nbsp;&nbsp;<img src="https://gdvdwg.bn1303.livefilestore.com/y2ptf0xfK2GMYPTVUMICT4C0LDH4YWY-gS2h5GKPMzxg4MdnNa8yRd9dRO8aN0fCcOs0VJIEeiPlnRJmE4oZqURP6vWJWYk02VbiBrmIUVgC0Q/Screen%20Shot%202014-05-14%20at%2012.06.23%20PM.png?psid=1" width="150px" />
-<br/>
+<br/><br/>
 This page contains information and links to all the resources you need to get started with the **Concur APIs** in the Seattle B2B Startup Weekend:
 
   - [Why  build Business Travel apps?](#why)
@@ -23,11 +23,12 @@ Numbers don't lie - the Business Travel industry is an "un-apped" market opportu
   - **460M business trips** in 1 year in U.S.
   - **10:1 **return on investment for companies whose employees travel
   
-  Click on the image below to find out more:
+  Click [here](http://www.slideshare.net/Concur/tapinto-businesstravelapps) to check out the Business Travel infographic as previewed below:
 
   <img href='http://www.slideshare.net/Concur/tapinto-businesstravelapps' src='https://gdvdwg.bn1.livefilestore.com/y2pH9kYl-wPtd5XJ_zL-_WOWST0eymwhM-r2rYdpwb-irWrTcICLXNRML6_5AK5VbLnDLsfeBfzpvHuIuKTzmqiBtf1NI7O-nL0ZxWowMU53Ks/Screen%20Shot%202014-05-14%20at%2012.16.01%20PM.png?psid=1' />
+  
+[Back to Top](#top)
     
-
 <a name="concur">What is Concur?</a>
 -----------
 
