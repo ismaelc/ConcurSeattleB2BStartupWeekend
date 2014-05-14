@@ -343,7 +343,7 @@ Here are details of an HTTP POST call push itinerary to a Concur user's trip lis
 [Back to Top](#top)
 
 
-<a name="mashup">Mash-up with our fellow sponsors' APIs</a>
+<a name="mashup">Mash-up with other APIs</a>
 --
 Hit more birds with 1 stone with these Concur integration ideas.
 
